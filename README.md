@@ -1,5 +1,3 @@
-Here’s a full, detailed `README.md` for your Oil Extraction Management project:
-
 ````markdown
 # Oil Extraction Management System
 
@@ -64,8 +62,3 @@ The Oil Extraction Management System is a Java console-based application designe
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
-If you want, I can also **write a version with badges, setup screenshots, and example usage output** to make it look professional on GitHub. Do you want me to do that?
-```
